@@ -1,4 +1,5 @@
-makeCacheMatrix <- function(x = matrix()) {
+## Put comments here that give an overall description of what your functions do
+## Write a short comment describing this functionmakeCacheMatrix <- function(x = matrix()) {
 ## This function creates a special "matrix" object which caches its inverse
  makeCacheMatrix <- function(x = matrix()) { 
     inv <- NULL                              
